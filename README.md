@@ -1,8 +1,4 @@
 <div align="center">
-  <p>
-    <a href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
-  </p>
 [English](README.md) | [简体中文](README.zh-CN.md)
   YOLOv8-QR is a cutting-edge, state-of-the-art (SOTA) QR code defect detection model that builds on the success of previous YOLO versions and introduces new features and improvements to further improve performance and flexibility. YOLOv8-QR is designed to be fast, accurate, and easy to use, making it an excellent choice for QR code defect detection tasks. In the future, we will optimize and improve the model. In the segmentation task, the segmentation model SAM has the ability to segmentation everything, but in the detection task, there is no model that can detect all objects, and we want to realize that our model has the ability to detect all objects. Thank you for reading.
 
