@@ -20,7 +20,7 @@ For alternative installation methods including Conda, Docker, and Git, please re
 
  
 
-Note: You can also install our YOLOv8-QRv1 version of the framework, and we have placed the code in the YOLOv8-QRv1 code repository.
+
 
 </div>
 
