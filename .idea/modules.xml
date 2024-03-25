@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ultralytics-main (2)/ultralytics-main/ultralytics/cfg/.idea/cfg.iml" filepath="$PROJECT_DIR$/../../ultralytics-main (2)/ultralytics-main/ultralytics/cfg/.idea/cfg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ultralytics-8.0.108.iml" filepath="$PROJECT_DIR$/.idea/ultralytics-8.0.108.iml" />
+    </modules>
+  </component>
+</project>
